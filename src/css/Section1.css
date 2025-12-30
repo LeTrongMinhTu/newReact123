@@ -1,0 +1,10 @@
+/* Section1.css */
+#sec1 {
+    padding: 40px;
+    text-align: center;
+}
+
+#sec1 h1 {
+    color: #333;
+    font-size: 28px;
+}
