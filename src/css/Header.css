@@ -1,0 +1,20 @@
+/* Header.css */
+.navBar {
+    display: flex;
+    gap: 12px;
+    padding: 16px;
+    background-color: #222;
+}
+
+.fancyButton {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 6px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+}
+
+.fancyButton:hover {
+    background-color: #43a047;
+}
